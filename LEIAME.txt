@@ -1,0 +1,21 @@
+#######
+#
+# Spring1 - tutotial executado - #
+# 
+#######
+#
+# Objetivo PESSOAL - entendimento do framework spring boot e restfull
+# Objeto do Tuturial - Criar um sistema que gera uma tabela, inclui, mostra, atualiza e deleta os dados
+# Foram ciradas as seguintes classes
+# ProdutoModel.java - definido o modelo de dados
+# ProdutoRepository.java - definida a interface de repositorio
+# ProdutoControle.java - definidos os metodos POST - GET - PUT e DELETE
+#
+#######
+#
+# Tutorial realizado no Ubuntu 21.10 
+# Eclipse Suite Tools 4
+# Java 17.0.1 LST
+# Em 08/02/2022
+# 
+#######
